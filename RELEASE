@@ -1,5 +1,4 @@
-v3.0.3
+v3.0.4
 
 ## changes
-- update all lix versions to the latest patch release
-  - includes fixes for recent [correctness bug](https://lix.systems/blog/2025-06-27-lix-critical-bug/)
+- update lix 2.93.2 -> 2.93.3
